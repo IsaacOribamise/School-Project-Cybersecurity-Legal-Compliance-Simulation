@@ -6,8 +6,8 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this
 <h2>🛠️ Key Components:</h2>
 
 - <b>[Case Study](https://www.virtualbox.org/wiki/Downloads)</b>: This section will explain the details of our case study, it will be a real-world scenario involving questionable business practices and potential legal violations within the company.
-- <b>[Kali Linux🏴‍☠️💻-(Download the VirtualBox 64-bit version)](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This is a Linux distribution designed for penetration testing, ethical hacking, and cybersecurity activities. In this home lab, I will use it as our primary toolkit for conducting security assessments, vulnerability analysis, and hands-on penetration testing exercises.
-- <b>[Metasploitable 🎯-(The link downloads automatically)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: This is a purposely vulnerable virtual machine designed for penetration testing and security training. I will use it to simulate a target environment with intentionally weak configurations and known vulnerabilities, making it an ideal resource for practicing ethical hacking techniques.
+- <b>[Investigation Mission](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This section is where we play the role of a digital detective, finding out the alleged criminal activities and applying those cybersecurity laws, and regulations, and legal theories.
+- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 
 <h2>🔄💻 Required System Requirement: I use an HP ENVY x360 Laptop (Not the best but it does the job)</h2>
 
