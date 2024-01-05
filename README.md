@@ -5,7 +5,7 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this
 
 <h2>🛠️ Key Components:</h2>
 
-- <b>[VirtualBox🔄-(Download the version for your operating system)](https://www.virtualbox.org/wiki/Downloads)</b>: This is an open-source virtualization platform that allows us to create and manage virtual machines (VMs). For our cybersecurity home lab, I would be using it to simulate diverse operating systems and network configurations within isolated environments.
+- <b>[Case Study](https://www.virtualbox.org/wiki/Downloads)</b>: This section will explain the details of our case study, it will be a real-world scenario involving questionable business practices and potential legal violations within the company.
 - <b>[Kali Linux🏴‍☠️💻-(Download the VirtualBox 64-bit version)](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This is a Linux distribution designed for penetration testing, ethical hacking, and cybersecurity activities. In this home lab, I will use it as our primary toolkit for conducting security assessments, vulnerability analysis, and hands-on penetration testing exercises.
 - <b>[Metasploitable 🎯-(The link downloads automatically)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: This is a purposely vulnerable virtual machine designed for penetration testing and security training. I will use it to simulate a target environment with intentionally weak configurations and known vulnerabilities, making it an ideal resource for practicing ethical hacking techniques.
 
