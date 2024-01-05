@@ -1,7 +1,7 @@
 # School-Project-Cybersecurity-Legal-Compliance-Simulation
 
 <h2>📚 Introduction</h2>
-Hey guys welcome to another cybersecurity project 🌐💻. In this project, I will dive into the basics of network security. TCPDump and Nmap are our tools of choice, this beginner's tool is essential in the monitoring and securing of our networks. Whether you're completely new to this or just curious to know more, this project is about the basics of keeping our network world safe and secure, so let's dive into it.
+Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this project is to provide a scenario involving a tech company named TechFite caught up in criminal activities. Our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
 
 <h2>🛠️ Tools That I Used</h2>
 
