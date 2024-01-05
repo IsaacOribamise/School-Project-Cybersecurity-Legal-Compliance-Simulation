@@ -3,7 +3,7 @@
 <h2>📚 Introduction</h2>
 Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this project is to provide a scenario involving a tech company named TechFite. The company has been caught up in criminal activities, our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
 
-<h2>🛠️ Tools That I Used</h2>
+<h2>🛠️ Key Components:</h2>
 
 - <b>[VirtualBox🔄-(Download the version for your operating system)](https://www.virtualbox.org/wiki/Downloads)</b>: This is an open-source virtualization platform that allows us to create and manage virtual machines (VMs). For our cybersecurity home lab, I would be using it to simulate diverse operating systems and network configurations within isolated environments.
 - <b>[Kali Linux🏴‍☠️💻-(Download the VirtualBox 64-bit version)](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This is a Linux distribution designed for penetration testing, ethical hacking, and cybersecurity activities. In this home lab, I will use it as our primary toolkit for conducting security assessments, vulnerability analysis, and hands-on penetration testing exercises.
