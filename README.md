@@ -1,7 +1,7 @@
 # School-Project-Cybersecurity-Legal-Compliance-Simulation
 
 <h2>📚 Introduction</h2>
-Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this project is to provide a scenario involving a tech company named TechFite caught up in criminal activities. Our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
+Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this project is to provide a scenario involving a tech company named TechFite. The company has been caught up in criminal activities, our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
 
 <h2>🛠️ Tools That I Used</h2>
 
