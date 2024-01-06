@@ -1,7 +1,7 @@
 # School-Project-Cybersecurity-Legal-Compliance-Simulation
 
 <h2>📚 Introduction</h2>
-Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this project is to provide a scenario involving a tech company named TechFite. The company has been caught up in criminal activities, our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
+Welcome to my Cybersecurity Legal Compliance Simulation project! This project aims to provide a scenario involving a tech company named TechFite. The company has been caught up in criminal activities, our mission here is to dig into the story, figure out what might be going wrong, and then explore how important laws and rules in cybersecurity apply to the situation. Join me in this project to see how regulatory laws keep our digital spaces safe!
 
 <h2>🛠️ Key Components:</h2>
 
@@ -10,8 +10,9 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this
 - <b>Summary and Recommendations</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management, and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 
 <h2>🔄💻 detailed exploration of each key component</h2>
-- <b>[Case Study](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: The link has a detailed narrative of the case study, highlighting key events, individuals involved, and the context of the alleged criminal activities. Then the questions to solve.
-- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
+
+- <b>[Case Study](https://drive.google.com/file/d/1soS8MWrlLqBkd0tSf6yCtbFMhRYOGlTh/view?usp=drive_link)</b>: The link has a detailed narrative of the case study, highlighting key events, individuals involved, and the context of the alleged criminal activities, then the questions to solve the case.
+- <b>[Our Task](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: This section is where we engage in a thorough examination of the alleged criminal activities within the case study. Explore the application of cybersecurity laws and regulations, providing insights into how each law is relevant to the case study. Analyze legal theories and principles as they apply to the identified criminal activities.
 - <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 - <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
