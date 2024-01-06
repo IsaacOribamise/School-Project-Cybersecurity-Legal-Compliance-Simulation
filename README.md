@@ -6,11 +6,12 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this
 <h2>🛠️ Key Components:</h2>
 
 - <b>Case Study</b>: This section will explain the details of our case study, it will be a real-world scenario involving questionable business practices and potential legal violations within the company.
-- <b>Investigation Mission</b>: This section is where we play the role of a digital detective, finding out the alleged criminal activities and applying those cybersecurity laws, and regulations, and legal theories.
-- <b>Summary and Recommendations</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
+- <b>Investigation Mission</b>: This section is where we play the role of a digital detective, finding out the alleged criminal activities and applying cybersecurity laws, regulations, and legal theories.
+- <b>Summary and Recommendations</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management, and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 
-<h2>🔄💻 Required System Requirement: I use an HP ENVY x360 Laptop (Not the best but it does the job)</h2>
-
+<h2>🔄💻 detailed exploration of each key component</h2>
+- <b>[Case Study](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: The link has a detailed narrative of the case study, highlighting key events, individuals involved, and the context of the alleged criminal activities. Then the questions to solve.
+- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 - <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 - <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
