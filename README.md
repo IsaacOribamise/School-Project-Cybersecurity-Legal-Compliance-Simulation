@@ -5,13 +5,13 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! The aim of this
 
 <h2>🛠️ Key Components:</h2>
 
-- <b>[Case Study](https://www.virtualbox.org/wiki/Downloads)</b>: This section will explain the details of our case study, it will be a real-world scenario involving questionable business practices and potential legal violations within the company.
-- <b>[Investigation Mission](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This section is where we play the role of a digital detective, finding out the alleged criminal activities and applying those cybersecurity laws, and regulations, and legal theories.
-- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
+- <b>Case Study</b>: This section will explain the details of our case study, it will be a real-world scenario involving questionable business practices and potential legal violations within the company.
+- <b>Investigation Mission</b>: This section is where we play the role of a digital detective, finding out the alleged criminal activities and applying those cybersecurity laws, and regulations, and legal theories.
+- <b>Summary and Recommendations</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 
 <h2>🔄💻 Required System Requirement: I use an HP ENVY x360 Laptop (Not the best but it does the job)</h2>
 
-- <b>[🧠 CPU: 13th Gen Intel(R) Core(TM) i7-1355U 1.70 GHz (Anything higher than this will work)]</b>
+- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
 - <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
