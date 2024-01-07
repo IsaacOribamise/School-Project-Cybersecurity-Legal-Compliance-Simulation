@@ -16,39 +16,19 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! This project ai
 - <b>[Summary and Recommendations:](https://drive.google.com/file/d/1-eCeKtvS-sBunjyie41ClNcU3GRnFJSP/view?usp=sharing)</b>: Prepare a summary directed to senior management that states the status of TechFite’s legal compliance. Summarize the findings from the investigation, detailing the legal implications and potential consequences for TechFite.
 
 
-<h2>[📝 Step by Step Guide To The Basics Using Nmap and TCPdump]
-
-- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=wJ1orKMY2wc&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=7)</b>
-
-- <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
-
-- <b>📝 STEP 2: Download and exact the Kali Linux and Metasploitable tool to use in Virtual box. </b>
-<img width="617" alt="Screenshot 2023-12-31 060416" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/5e430e53-8f6e-46aa-afbf-338f59b5099c">
-
-
-- <b>📝 STEP 3: After opening both tools, I ran 'ifconfig' on Metasploitable to know the IP address (172.20.10.13) I will be performing information gathering on. </b>
-<img width="381" alt="Screenshot 2023-12-31 035106" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/4c795b36-9199-4ff4-9601-b0d85178522b">
-
-
-- <b>📝 STEP 4: From here I was able to run basic Nmap commands on the command line to see what a vulnerable machine would look like. </b>
-- For example: 'nmap 172.20.10.13' scans the top 1000 TCP ports on a target IP address, this tells us which ports are open or closed, and some open ports might mean a machine is vulnerable. just like our example in this project.
-<img width="408" alt="Screenshot 2023-12-31 052449" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/1c1f6efa-95bb-4e3b-a6f3-45f33460770e">
-- Another Nmap command I used was the 'nmap -O 172.20.10.13' which identifies the operating system of the target, for this machine it was a 'Linux 2.6.X'.
-- Another Nmap command I experimented with was the 'nmap -sV 172.20.10.13' which shows the service versions running on open ports. For an attack information like this can be used to cause a lot of harm.
-
-
-- <b>📝 STEP 5: I practiced using ZENMAP, which is just the GUI version of the Nmap. I practiced on the same IP address and this was my result </b>
-<img width="609" alt="Screenshot 2023-12-31 054516" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/a5b4749f-f239-44c4-ad0b-21384db05f30">
-
-- <b>📝 STEP 6: This was where I dived into TCPdump and practiced using its commands. The 'tcpdump -i eth0' captures packets on my network interface this essentially means that I can observe and analyze the data that is flowing through my computer's network connection.  </b>
-<img width="419" alt="Screenshot 2023-12-31 055449" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/1e0821c2-72f7-4202-ad57-faaacca3e1ea">
-
-- <b>📝 STEP 7: Lastly, I practiced the use of Wireshark, it has a similar function to the 'TCPdump' command which captures packets on my WIFI but is GUI version.
-<img width="577" alt="Screenshot 2023-12-31 060146" src="https://github.com/IsaacOribamise/Mastering-Network-Insights-A-beginners-guide-to-TCPDump-and-Nmap/assets/154943957/077e2c6e-a1ae-4d74-b009-a1c2cdf40eef">
-
 <h2>💡 key lessons and takeaways from this project:</h2>
 
-I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
+- <b>Follow the Rule</b>: This project shows how important it is for companies to follow the rules. It's like playing a fair game—when everyone plays by the rules, things work better.
+- <b>Understand the Laws</b>: We learned that understanding and using cybersecurity laws is like understanding the rules of a game. You need to know them well to play the game right.
+- <b>Be Really Careful</b>: The project teaches us that being really careful, especially with important information, is super important. If you're not careful, things can get messy.
+- <b>Keep an Eye Inside</b>: We found out that it's important to keep an eye on what's happening inside a company. This helps make sure everyone is doing the right things and following the rules.
+- <b>Separate Important Stuff</b>: Just like keeping your toys separate, companies need to keep important information separate. This way, it stays safe and doesn't get into the wrong hands.
+- <b>Do the Right Thing</b>: The project shows that doing the right thing is really important. Even in tech, we need to be good and make sure everything is fair.
+- <b>Make Rules Bette</b>: We learned that companies should always try to make their rules better. If rules aren't clear, things can go wrong. So, it's important to keep making them better.
+- <b>Be Friends Smartly</b>: The project talks about being smart with friendships at work. Companies need to be careful about who's friends with who to keep everything fair and safe.
+- <b>Look at Money Carefully</b>: We found out that looking at money transactions carefully is like counting your pocket money. If you don't check, you might not know if something's not right.
+- <b>ork Together for Safety</b>: The project tells us that working together is super important. Everyone—cybersecurity experts, law experts, and bosses—needs to work together to keep things safe.
+
 
 
 <h2> 🤳 Connect with me:</h2>
