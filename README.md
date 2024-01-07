@@ -12,12 +12,9 @@ Welcome to my Cybersecurity Legal Compliance Simulation project! This project ai
 <h2>🔄💻 detailed exploration of each key component</h2>
 
 - <b>[Case Study](https://drive.google.com/file/d/1soS8MWrlLqBkd0tSf6yCtbFMhRYOGlTh/view?usp=drive_link)</b>: The link has a detailed narrative of the case study, highlighting key events, individuals involved, and the context of the alleged criminal activities, then the questions to solve the case.
-- <b>[Our Task](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: This section is where we engage in a thorough examination of the alleged criminal activities within the case study. Explore the application of cybersecurity laws and regulations, providing insights into how each law is relevant to the case study. Analyze legal theories and principles as they apply to the identified criminal activities.
-- <b>[Summary and Recommendations:](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: Then we would explore the findings and results gained from our investigation, make a detailed summary directed to senior management and make recommendations that aim to fortify legal compliance and cybersecurity within the company.
-- <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
-- <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
-- <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
-- <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
+- <b>[Our Task](https://drive.google.com/file/d/1xs8EdWIKyWi7L-vI3m-w_mGrFubH4ttf/view?usp=sharing)</b>: This section is where we engage in a thorough examination of the alleged criminal activities within the case study. Explore the application of cybersecurity laws and regulations, providing insights into how each law is relevant to the case study. Analyze legal theories and principles as they apply to the identified criminal activities.
+- <b>[Summary and Recommendations:](https://drive.google.com/file/d/1-eCeKtvS-sBunjyie41ClNcU3GRnFJSP/view?usp=sharing)</b>: Prepare a summary directed to senior management that states the status of TechFite’s legal compliance. Summarize the findings from the investigation, detailing the legal implications and potential consequences for TechFite.
+
 
 <h2>[📝 Step by Step Guide To The Basics Using Nmap and TCPdump]
 
